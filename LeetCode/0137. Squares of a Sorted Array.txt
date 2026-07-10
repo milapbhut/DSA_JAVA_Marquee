@@ -1,18 +1,20 @@
+int e = nums.length - 1;
+int k = nums.length - 1;
+while(s <= e){
+if(Math.abs(nums[s]) > Math.abs(nums[e])){
+}
+temp[k] = nums[s] * nums[s];
+}
+else{
+temp[k] = nums[e] * nums[e];
+}
+k--;
+s++;
+e--;
+return temp;
+}
+}
 class Solution {
 public int[] sortedSquares(int[] nums) {
-for(int i = 0; i < nums.length; i++){
-int temp = nums[i] * nums[i];
-nums[i] = temp;
-}
-for(int i = 0; i < nums.length; i++){
-for(int j = i + 1; j < nums.length; j++){
-}
-if(nums[i] > nums[j]){
-}
-int temp = nums[j];
-}
-}
-nums[j] = nums[i];
-nums[i] = temp;
-return nums;
-}
+int [] temp = new int[nums.length];
+int s = 0;
