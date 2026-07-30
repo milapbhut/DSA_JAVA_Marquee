@@ -8,3 +8,4 @@
 | 6 | [Make Zeroes](./GeeksForGeeks/Easy/Make%20Zeroes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/make-zeroes4042/1) | Easy | 30 Jul 2026 | 08:10 am |
 | 7 | [Max Consecutive Bit](./GeeksForGeeks/Easy/Max%20Consecutive%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-consecutive-one/1) | Easy | 30 Jul 2026 | 08:10 am |
 | 8 | [Reading Books](./GeeksForGeeks/Easy/Reading%20Books) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reading-books3803/1) | Easy | 30 Jul 2026 | 08:10 am |
+| 9 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 30 Jul 2026 | 08:11 am |
