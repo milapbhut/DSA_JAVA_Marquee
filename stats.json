@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -20,10 +20,11 @@
     "GeeksForGeeks_Max_Consecutive_Bit": true,
     "GeeksForGeeks_Reading_Books": true,
     "GeeksForGeeks_Segregate_0s_and_1s": true,
-    "GeeksForGeeks_Rotate_Array_Clockwise": true
+    "GeeksForGeeks_Rotate_Array_Clockwise": true,
+    "GeeksForGeeks_Rotate_Array": true
   },
   "activityHistory": {
-    "2026-07-30": 10
+    "2026-07-30": 11
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -35,6 +36,7 @@
     "Max Consecutive Bit",
     "Reading Books",
     "Segregate 0s and 1s",
-    "Rotate Array Clockwise"
+    "Rotate Array Clockwise",
+    "Rotate Array"
   ]
 }
