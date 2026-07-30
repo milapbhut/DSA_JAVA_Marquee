@@ -15,3 +15,4 @@
 | 13 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 30 Jul 2026 | 08:14 am |
 | 14 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 30 Jul 2026 | 08:14 am |
 | 15 | [Ways to Increase LCS by One](./GeeksForGeeks/Medium/Ways%20to%20Increase%20LCS%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-ways-to-increase-lcs-length-of-two-strings-by-one2236/1) | Medium | 30 Jul 2026 | 08:14 am |
+| 16 | [Replace all 0's with 5](./GeeksForGeeks/Basic/Replace%20all%200's%20with%205) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1) | Basic | 30 Jul 2026 | 08:14 am |
