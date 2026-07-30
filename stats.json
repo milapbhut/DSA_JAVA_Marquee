@@ -1,14 +1,14 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 20,
+  "todayCount": 21,
   "difficultyCounts": {
     "easy": 10,
     "medium": 6,
     "hard": 0,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -30,10 +30,11 @@
     "GeeksForGeeks_Given_Bbase_to_Decimal_Conversion": true,
     "GeeksForGeeks_Count_Digits_in_a_Number": true,
     "GeeksForGeeks_Max_Subarray_Sum_by_Removing_At_Most_One": true,
-    "GeeksForGeeks_Check_Subset_sum_divisible_by_k": true
+    "GeeksForGeeks_Check_Subset_sum_divisible_by_k": true,
+    "GeeksForGeeks_Half_Diamond_Star_Pattern": true
   },
   "activityHistory": {
-    "2026-07-30": 20
+    "2026-07-30": 21
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -55,6 +56,7 @@
     "Given Bbase to Decimal Conversion",
     "Count Digits in a Number",
     "Max Subarray Sum by Removing At Most One",
-    "Check Subset sum divisible by k"
+    "Check Subset sum divisible by k",
+    "Half Diamond Star Pattern"
   ]
 }
