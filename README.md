@@ -24,3 +24,4 @@
 | 22 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1) | Basic | 30 Jul 2026 | 08:15 am |
 | 23 | [Inverted Right Angle Triangle Pattern](./GeeksForGeeks/Basic/Inverted%20Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1) | Basic | 30 Jul 2026 | 09:10 am |
 | 24 | [Inverted Triangle of Stars](./GeeksForGeeks/Easy/Inverted%20Triangle%20of%20Stars) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1) | Easy | 30 Jul 2026 | 09:21 am |
+| 25 | [Sign of the Product of an Array](./LeetCode/Easy/Sign%20of%20the%20Product%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | 30 Jul 2026 | 10:28 am |
