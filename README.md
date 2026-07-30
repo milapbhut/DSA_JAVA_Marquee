@@ -18,3 +18,4 @@
 | 16 | [Replace all 0's with 5](./GeeksForGeeks/Basic/Replace%20all%200's%20with%205) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1) | Basic | 30 Jul 2026 | 08:14 am |
 | 17 | [Given Bbase to Decimal Conversion](./GeeksForGeeks/Basic/Given%20Bbase%20to%20Decimal%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-from-any-base-to-decimal3736/1) | Basic | 30 Jul 2026 | 08:14 am |
 | 18 | [Count Digits in a Number](./GeeksForGeeks/Easy/Count%20Digits%20in%20a%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | Easy | 30 Jul 2026 | 08:14 am |
+| 19 | [Max Subarray Sum by Removing At Most One](./GeeksForGeeks/Medium/Max%20Subarray%20Sum%20by%20Removing%20At%20Most%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1) | Medium | 30 Jul 2026 | 08:14 am |

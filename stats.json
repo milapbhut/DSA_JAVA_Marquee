@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 4
   },
@@ -28,10 +28,11 @@
     "GeeksForGeeks_Ways_to_Increase_LCS_by_One": true,
     "GeeksForGeeks_Replace_all_0's_with_5": true,
     "GeeksForGeeks_Given_Bbase_to_Decimal_Conversion": true,
-    "GeeksForGeeks_Count_Digits_in_a_Number": true
+    "GeeksForGeeks_Count_Digits_in_a_Number": true,
+    "GeeksForGeeks_Max_Subarray_Sum_by_Removing_At_Most_One": true
   },
   "activityHistory": {
-    "2026-07-30": 18
+    "2026-07-30": 19
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -51,6 +52,7 @@
     "Ways to Increase LCS by One",
     "Replace all 0's with 5",
     "Given Bbase to Decimal Conversion",
-    "Count Digits in a Number"
+    "Count Digits in a Number",
+    "Max Subarray Sum by Removing At Most One"
   ]
 }
