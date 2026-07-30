@@ -12,3 +12,4 @@
 | 10 | [Rotate Array Clockwise](./GeeksForGeeks/Easy/Rotate%20Array%20Clockwise) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-clockwise/1) | Easy | 30 Jul 2026 | 08:11 am |
 | 11 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | 30 Jul 2026 | 08:13 am |
 | 12 | [Check Equal Arrays](./GeeksForGeeks/Easy/Check%20Equal%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | Easy | 30 Jul 2026 | 08:13 am |
+| 13 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 30 Jul 2026 | 08:14 am |
