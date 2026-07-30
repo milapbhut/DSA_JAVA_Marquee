@@ -22,3 +22,4 @@
 | 20 | [Check Subset sum divisible by k](./GeeksForGeeks/Medium/Check%20Subset%20sum%20divisible%20by%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m2546/1) | Medium | 30 Jul 2026 | 08:14 am |
 | 21 | [Half Diamond Star Pattern](./GeeksForGeeks/Basic/Half%20Diamond%20Star%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/1) | Basic | 30 Jul 2026 | 08:15 am |
 | 22 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1) | Basic | 30 Jul 2026 | 08:15 am |
+| 23 | [Inverted Right Angle Triangle Pattern](./GeeksForGeeks/Basic/Inverted%20Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1) | Basic | 30 Jul 2026 | 09:10 am |
