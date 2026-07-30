@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 2
   },
@@ -24,10 +24,11 @@
     "GeeksForGeeks_Rotate_Array": true,
     "GeeksForGeeks_Check_Equal_Arrays": true,
     "GeeksForGeeks_Array_Subset": true,
-    "GeeksForGeeks_Rotate_Array_by_One": true
+    "GeeksForGeeks_Rotate_Array_by_One": true,
+    "GeeksForGeeks_Ways_to_Increase_LCS_by_One": true
   },
   "activityHistory": {
-    "2026-07-30": 14
+    "2026-07-30": 15
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -43,6 +44,7 @@
     "Rotate Array",
     "Check Equal Arrays",
     "Array Subset",
-    "Rotate Array by One"
+    "Rotate Array by One",
+    "Ways to Increase LCS by One"
   ]
 }

@@ -14,3 +14,4 @@
 | 12 | [Check Equal Arrays](./GeeksForGeeks/Easy/Check%20Equal%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | Easy | 30 Jul 2026 | 08:13 am |
 | 13 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | Basic | 30 Jul 2026 | 08:14 am |
 | 14 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 30 Jul 2026 | 08:14 am |
+| 15 | [Ways to Increase LCS by One](./GeeksForGeeks/Medium/Ways%20to%20Increase%20LCS%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-ways-to-increase-lcs-length-of-two-strings-by-one2236/1) | Medium | 30 Jul 2026 | 08:14 am |
