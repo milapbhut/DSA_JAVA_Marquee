@@ -19,3 +19,4 @@
 | 17 | [Given Bbase to Decimal Conversion](./GeeksForGeeks/Basic/Given%20Bbase%20to%20Decimal%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-from-any-base-to-decimal3736/1) | Basic | 30 Jul 2026 | 08:14 am |
 | 18 | [Count Digits in a Number](./GeeksForGeeks/Easy/Count%20Digits%20in%20a%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | Easy | 30 Jul 2026 | 08:14 am |
 | 19 | [Max Subarray Sum by Removing At Most One](./GeeksForGeeks/Medium/Max%20Subarray%20Sum%20by%20Removing%20At%20Most%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1) | Medium | 30 Jul 2026 | 08:14 am |
+| 20 | [Check Subset sum divisible by k](./GeeksForGeeks/Medium/Check%20Subset%20sum%20divisible%20by%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m2546/1) | Medium | 30 Jul 2026 | 08:14 am |
