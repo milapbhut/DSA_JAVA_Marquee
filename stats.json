@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true
+    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
+    "GeeksForGeeks_Boolean_Matrix": true
   },
   "activityHistory": {
-    "2026-07-30": 1
+    "2026-07-30": 2
   },
   "todayProblems": [
-    "Right Angle Triangle Pattern"
+    "Right Angle Triangle Pattern",
+    "Boolean Matrix"
   ]
 }
