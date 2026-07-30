@@ -21,3 +21,4 @@
 | 19 | [Max Subarray Sum by Removing At Most One](./GeeksForGeeks/Medium/Max%20Subarray%20Sum%20by%20Removing%20At%20Most%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1) | Medium | 30 Jul 2026 | 08:14 am |
 | 20 | [Check Subset sum divisible by k](./GeeksForGeeks/Medium/Check%20Subset%20sum%20divisible%20by%20k) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m2546/1) | Medium | 30 Jul 2026 | 08:14 am |
 | 21 | [Half Diamond Star Pattern](./GeeksForGeeks/Basic/Half%20Diamond%20Star%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/1) | Basic | 30 Jul 2026 | 08:15 am |
+| 22 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1) | Basic | 30 Jul 2026 | 08:15 am |
