@@ -1,11 +1,11 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 2,
     "hard": 0,
     "basic": 0
@@ -17,10 +17,11 @@
     "GeeksForGeeks_Sum_of_upper_and_lower_triangles": true,
     "GeeksForGeeks_Matrix_Boundary_Traversal": true,
     "GeeksForGeeks_Make_Zeroes": true,
-    "GeeksForGeeks_Max_Consecutive_Bit": true
+    "GeeksForGeeks_Max_Consecutive_Bit": true,
+    "GeeksForGeeks_Reading_Books": true
   },
   "activityHistory": {
-    "2026-07-30": 7
+    "2026-07-30": 8
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -29,6 +30,7 @@
     "Sum of upper and lower triangles",
     "Matrix Boundary Traversal",
     "Make Zeroes",
-    "Max Consecutive Bit"
+    "Max Consecutive Bit",
+    "Reading Books"
   ]
 }

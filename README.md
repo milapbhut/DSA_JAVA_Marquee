@@ -7,3 +7,4 @@
 | 5 | [Matrix Boundary Traversal](./GeeksForGeeks/Easy/Matrix%20Boundary%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/1) | Easy | 30 Jul 2026 | 08:09 am |
 | 6 | [Make Zeroes](./GeeksForGeeks/Easy/Make%20Zeroes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/make-zeroes4042/1) | Easy | 30 Jul 2026 | 08:10 am |
 | 7 | [Max Consecutive Bit](./GeeksForGeeks/Easy/Max%20Consecutive%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-consecutive-one/1) | Easy | 30 Jul 2026 | 08:10 am |
+| 8 | [Reading Books](./GeeksForGeeks/Easy/Reading%20Books) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reading-books3803/1) | Easy | 30 Jul 2026 | 08:10 am |
