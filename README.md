@@ -11,3 +11,4 @@
 | 9 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 30 Jul 2026 | 08:11 am |
 | 10 | [Rotate Array Clockwise](./GeeksForGeeks/Easy/Rotate%20Array%20Clockwise) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-clockwise/1) | Easy | 30 Jul 2026 | 08:11 am |
 | 11 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | 30 Jul 2026 | 08:13 am |
+| 12 | [Check Equal Arrays](./GeeksForGeeks/Easy/Check%20Equal%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | Easy | 30 Jul 2026 | 08:13 am |
