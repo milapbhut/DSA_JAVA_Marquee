@@ -1,14 +1,14 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 16,
+  "todayCount": 17,
   "difficultyCounts": {
     "easy": 9,
     "medium": 4,
     "hard": 0,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -26,10 +26,11 @@
     "GeeksForGeeks_Array_Subset": true,
     "GeeksForGeeks_Rotate_Array_by_One": true,
     "GeeksForGeeks_Ways_to_Increase_LCS_by_One": true,
-    "GeeksForGeeks_Replace_all_0's_with_5": true
+    "GeeksForGeeks_Replace_all_0's_with_5": true,
+    "GeeksForGeeks_Given_Bbase_to_Decimal_Conversion": true
   },
   "activityHistory": {
-    "2026-07-30": 16
+    "2026-07-30": 17
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -47,6 +48,7 @@
     "Array Subset",
     "Rotate Array by One",
     "Ways to Increase LCS by One",
-    "Replace all 0's with 5"
+    "Replace all 0's with 5",
+    "Given Bbase to Decimal Conversion"
   ]
 }
