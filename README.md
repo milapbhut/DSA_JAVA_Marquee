@@ -23,3 +23,4 @@
 | 21 | [Half Diamond Star Pattern](./GeeksForGeeks/Basic/Half%20Diamond%20Star%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/1) | Basic | 30 Jul 2026 | 08:15 am |
 | 22 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1) | Basic | 30 Jul 2026 | 08:15 am |
 | 23 | [Inverted Right Angle Triangle Pattern](./GeeksForGeeks/Basic/Inverted%20Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1) | Basic | 30 Jul 2026 | 09:10 am |
+| 24 | [Inverted Triangle of Stars](./GeeksForGeeks/Easy/Inverted%20Triangle%20of%20Stars) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1) | Easy | 30 Jul 2026 | 09:21 am |

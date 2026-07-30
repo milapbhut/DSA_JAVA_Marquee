@@ -1,11 +1,11 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 23,
+  "todayCount": 24,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 6,
     "hard": 0,
     "basic": 7
@@ -33,10 +33,11 @@
     "GeeksForGeeks_Check_Subset_sum_divisible_by_k": true,
     "GeeksForGeeks_Half_Diamond_Star_Pattern": true,
     "GeeksForGeeks_Pyramid_Pattern": true,
-    "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true
+    "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true,
+    "GeeksForGeeks_Inverted_Triangle_of_Stars": true
   },
   "activityHistory": {
-    "2026-07-30": 23
+    "2026-07-30": 24
   },
   "todayProblems": [
     "Right Angle Triangle Pattern",
@@ -61,6 +62,7 @@
     "Check Subset sum divisible by k",
     "Half Diamond Star Pattern",
     "Pyramid Pattern",
-    "Inverted Right Angle Triangle Pattern"
+    "Inverted Right Angle Triangle Pattern",
+    "Inverted Triangle of Stars"
   ]
 }
