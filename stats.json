@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-07-30",
-  "todayCount": 25,
+  "totalSolved": 26,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-07-31",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 7
   },
@@ -35,36 +35,14 @@
     "GeeksForGeeks_Pyramid_Pattern": true,
     "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Inverted_Triangle_of_Stars": true,
-    "LeetCode_Sign_of_the_Product_of_an_Array": true
+    "LeetCode_Sign_of_the_Product_of_an_Array": true,
+    "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true
   },
   "activityHistory": {
-    "2026-07-30": 25
+    "2026-07-30": 25,
+    "2026-07-31": 1
   },
   "todayProblems": [
-    "Right Angle Triangle Pattern",
-    "Boolean Matrix",
-    "Exit Point in a Matrix",
-    "Sum of upper and lower triangles",
-    "Matrix Boundary Traversal",
-    "Make Zeroes",
-    "Max Consecutive Bit",
-    "Reading Books",
-    "Segregate 0s and 1s",
-    "Rotate Array Clockwise",
-    "Rotate Array",
-    "Check Equal Arrays",
-    "Array Subset",
-    "Rotate Array by One",
-    "Ways to Increase LCS by One",
-    "Replace all 0's with 5",
-    "Given Bbase to Decimal Conversion",
-    "Count Digits in a Number",
-    "Max Subarray Sum by Removing At Most One",
-    "Check Subset sum divisible by k",
-    "Half Diamond Star Pattern",
-    "Pyramid Pattern",
-    "Inverted Right Angle Triangle Pattern",
-    "Inverted Triangle of Stars",
-    "Sign of the Product of an Array"
+    "Right-Angled Number Triangle Pattern"
   ]
 }
