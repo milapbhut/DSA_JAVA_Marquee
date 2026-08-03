@@ -33,3 +33,4 @@
 | 31 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 03 Aug 2026 | 09:59 pm |
 | 32 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1?) | Basic | 03 Aug 2026 | 10:02 pm |
 | 33 | [Sum of Natural Numbers](./GeeksForGeeks/Easy/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Easy | 03 Aug 2026 | 10:04 pm |
+| 34 | [Odd or Even](./GeeksForGeeks/Basic/Odd%20or%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/odd-or-even3618/1?) | Basic | 03 Aug 2026 | 10:05 pm |
