@@ -28,3 +28,4 @@
 | 26 | [Right-Angled Number Triangle Pattern](./GeeksForGeeks/Medium/Right-Angled%20Number%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1) | Medium | 31 Jul 2026 | 10:09 am |
 | 27 | [Diamond Shape Pattern](./GeeksForGeeks/Basic/Diamond%20Shape%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pattern/1) | Basic | 31 Jul 2026 | 10:11 am |
 | 28 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 03 Aug 2026 | 09:13 am |
+| 29 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 03 Aug 2026 | 09:38 am |
