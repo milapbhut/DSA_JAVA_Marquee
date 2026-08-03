@@ -31,3 +31,4 @@
 | 29 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 03 Aug 2026 | 09:38 am |
 | 30 | [While Loop](./GeeksForGeeks/Basic/While%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop/1?) | Basic | 03 Aug 2026 | 09:55 pm |
 | 31 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 03 Aug 2026 | 09:59 pm |
+| 32 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1?) | Basic | 03 Aug 2026 | 10:02 pm |

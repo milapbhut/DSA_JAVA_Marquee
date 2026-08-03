@@ -1,14 +1,14 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 14,
     "medium": 8,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -41,17 +41,19 @@
     "LeetCode_Stone_Game": true,
     "LeetCode_Pascal's_Triangle_II": true,
     "GeeksForGeeks_While_Loop": true,
-    "GeeksForGeeks_Prime_Number": true
+    "GeeksForGeeks_Prime_Number": true,
+    "GeeksForGeeks_The_Else_if_Statement": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
-    "2026-08-03": 4
+    "2026-08-03": 5
   },
   "todayProblems": [
     "Stone Game",
     "Pascal's Triangle II",
     "While Loop",
-    "Prime Number"
+    "Prime Number",
+    "The Else if Statement"
   ]
 }
