@@ -30,3 +30,4 @@
 | 28 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 03 Aug 2026 | 09:13 am |
 | 29 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 03 Aug 2026 | 09:38 am |
 | 30 | [While Loop](./GeeksForGeeks/Basic/While%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop/1?) | Basic | 03 Aug 2026 | 09:55 pm |
+| 31 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 03 Aug 2026 | 09:59 pm |
