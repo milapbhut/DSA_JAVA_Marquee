@@ -1,14 +1,14 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 15,
     "medium": 8,
     "hard": 0,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -44,12 +44,13 @@
     "GeeksForGeeks_Prime_Number": true,
     "GeeksForGeeks_The_Else_if_Statement": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
-    "GeeksForGeeks_Odd_or_Even": true
+    "GeeksForGeeks_Odd_or_Even": true,
+    "GeeksForGeeks_Floyd's_triangle": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
-    "2026-08-03": 7
+    "2026-08-03": 8
   },
   "todayProblems": [
     "Stone Game",
@@ -58,6 +59,7 @@
     "Prime Number",
     "The Else if Statement",
     "Sum of Natural Numbers",
-    "Odd or Even"
+    "Odd or Even",
+    "Floyd's triangle"
   ]
 }
