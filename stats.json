@@ -1,14 +1,14 @@
 {
-  "totalSolved": 38,
+  "totalSolved": 39,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 15,
     "medium": 9,
     "hard": 0,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -48,12 +48,13 @@
     "GeeksForGeeks_Floyd's_triangle": true,
     "GeeksForGeeks_Solid_Rectangle": true,
     "GeeksForGeeks_Print_Hollow_Rectangle": true,
-    "GeeksForGeeks_1_to_n_Without_Loops": true
+    "GeeksForGeeks_1_to_n_Without_Loops": true,
+    "GeeksForGeeks_Factorial": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
-    "2026-08-03": 11
+    "2026-08-03": 12
   },
   "todayProblems": [
     "Stone Game",
@@ -66,6 +67,7 @@
     "Floyd's triangle",
     "Solid Rectangle",
     "Print Hollow Rectangle",
-    "1 to n Without Loops"
+    "1 to n Without Loops",
+    "Factorial"
   ]
 }

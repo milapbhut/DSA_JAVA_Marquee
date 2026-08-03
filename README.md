@@ -38,3 +38,4 @@
 | 36 | [Solid Rectangle](./GeeksForGeeks/Basic/Solid%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/solid-rectangle/1?) | Basic | 03 Aug 2026 | 10:20 pm |
 | 37 | [Print Hollow Rectangle](./GeeksForGeeks/Basic/Print%20Hollow%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1?) | Basic | 03 Aug 2026 | 10:22 pm |
 | 38 | [1 to n Without Loops](./GeeksForGeeks/Medium/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1?) | Medium | 03 Aug 2026 | 10:29 pm |
+| 39 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1?) | Basic | 03 Aug 2026 | 10:30 pm |
