@@ -1,14 +1,14 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
     "medium": 8,
     "hard": 0,
-    "basic": 8
+    "basic": 9
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -39,15 +39,17 @@
     "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true,
     "GeeksForGeeks_Diamond_Shape_Pattern": true,
     "LeetCode_Stone_Game": true,
-    "LeetCode_Pascal's_Triangle_II": true
+    "LeetCode_Pascal's_Triangle_II": true,
+    "GeeksForGeeks_While_Loop": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
-    "2026-08-03": 2
+    "2026-08-03": 3
   },
   "todayProblems": [
     "Stone Game",
-    "Pascal's Triangle II"
+    "Pascal's Triangle II",
+    "While Loop"
   ]
 }
