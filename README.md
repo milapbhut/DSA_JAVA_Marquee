@@ -27,3 +27,4 @@
 | 25 | [Sign of the Product of an Array](./LeetCode/Easy/Sign%20of%20the%20Product%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | 30 Jul 2026 | 10:28 am |
 | 26 | [Right-Angled Number Triangle Pattern](./GeeksForGeeks/Medium/Right-Angled%20Number%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1) | Medium | 31 Jul 2026 | 10:09 am |
 | 27 | [Diamond Shape Pattern](./GeeksForGeeks/Basic/Diamond%20Shape%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pattern/1) | Basic | 31 Jul 2026 | 10:11 am |
+| 28 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 03 Aug 2026 | 09:13 am |

@@ -1,12 +1,12 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 2,
+  "totalSolved": 28,
+  "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-07-31",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-03",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 8
   },
@@ -37,14 +37,15 @@
     "GeeksForGeeks_Inverted_Triangle_of_Stars": true,
     "LeetCode_Sign_of_the_Product_of_an_Array": true,
     "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true,
-    "GeeksForGeeks_Diamond_Shape_Pattern": true
+    "GeeksForGeeks_Diamond_Shape_Pattern": true,
+    "LeetCode_Stone_Game": true
   },
   "activityHistory": {
     "2026-07-30": 25,
-    "2026-07-31": 2
+    "2026-07-31": 2,
+    "2026-08-03": 1
   },
   "todayProblems": [
-    "Right-Angled Number Triangle Pattern",
-    "Diamond Shape Pattern"
+    "Stone Game"
   ]
 }
