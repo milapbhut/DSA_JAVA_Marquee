@@ -1,11 +1,11 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 8,
     "hard": 0,
     "basic": 10
@@ -42,18 +42,20 @@
     "LeetCode_Pascal's_Triangle_II": true,
     "GeeksForGeeks_While_Loop": true,
     "GeeksForGeeks_Prime_Number": true,
-    "GeeksForGeeks_The_Else_if_Statement": true
+    "GeeksForGeeks_The_Else_if_Statement": true,
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
-    "2026-08-03": 5
+    "2026-08-03": 6
   },
   "todayProblems": [
     "Stone Game",
     "Pascal's Triangle II",
     "While Loop",
     "Prime Number",
-    "The Else if Statement"
+    "The Else if Statement",
+    "Sum of Natural Numbers"
   ]
 }
