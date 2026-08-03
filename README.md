@@ -35,3 +35,4 @@
 | 33 | [Sum of Natural Numbers](./GeeksForGeeks/Easy/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Easy | 03 Aug 2026 | 10:04 pm |
 | 34 | [Odd or Even](./GeeksForGeeks/Basic/Odd%20or%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/odd-or-even3618/1?) | Basic | 03 Aug 2026 | 10:05 pm |
 | 35 | [Floyd's triangle](./GeeksForGeeks/Basic/Floyd's%20triangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floyds-triangle1222/1?) | Basic | 03 Aug 2026 | 10:18 pm |
+| 36 | [Solid Rectangle](./GeeksForGeeks/Basic/Solid%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/solid-rectangle/1?) | Basic | 03 Aug 2026 | 10:20 pm |
