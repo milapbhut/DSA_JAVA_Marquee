@@ -40,3 +40,4 @@
 | 38 | [1 to n Without Loops](./GeeksForGeeks/Medium/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1?) | Medium | 03 Aug 2026 | 10:29 pm |
 | 39 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1?) | Basic | 03 Aug 2026 | 10:30 pm |
 | 40 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 08:11 am |
+| 41 | [Sum of Unique Elements](./LeetCode/Easy/Sum%20of%20Unique%20Elements) | [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | 04 Aug 2026 | 08:17 am |
