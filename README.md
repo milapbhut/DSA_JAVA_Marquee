@@ -48,3 +48,4 @@
 | 46 | [Array Traversal](./GeeksForGeeks/Basic/Array%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 04 Aug 2026 | 10:47 pm |
 | 47 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 04 Aug 2026 | 10:48 pm |
 | 48 | [Bubble Sort](./GeeksForGeeks/Easy/Bubble%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1) | Easy | 04 Aug 2026 | 10:50 pm |
+| 49 | [Pairs with Less Than K Diff](./GeeksForGeeks/Easy/Pairs%20with%20Less%20Than%20K%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pairs-with-difference-less-than-k1348/1) | Easy | 04 Aug 2026 | 10:52 pm |
