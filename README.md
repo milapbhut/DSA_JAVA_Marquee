@@ -43,3 +43,4 @@
 | 41 | [Sum of Unique Elements](./LeetCode/Easy/Sum%20of%20Unique%20Elements) | [LeetCode](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | 04 Aug 2026 | 08:17 am |
 | 42 | [100 - AB](./Codeforces/basic/100%20-%20AB) | [Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/100) | basic | 04 Aug 2026 | 10:21 am |
 | 43 | [123 - The sum](./Codeforces/basic/123%20-%20The%20sum) | [Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/123) | basic | 04 Aug 2026 | 10:50 am |
+| 44 | [112 - ab - ba](./Codeforces/basic/112%20-%20ab%20-%20ba) | [Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/112) | basic | 04 Aug 2026 | 11:14 am |
