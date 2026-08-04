@@ -1,14 +1,14 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 17,
     "medium": 9,
     "hard": 0,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -52,17 +52,19 @@
     "GeeksForGeeks_Factorial": true,
     "LeetCode_Find_Missing_Elements": true,
     "LeetCode_Sum_of_Unique_Elements": true,
-    "Codeforces_100_-_AB": true
+    "Codeforces_100_-_AB": true,
+    "Codeforces_123_-_The_sum": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
     "2026-08-03": 12,
-    "2026-08-04": 3
+    "2026-08-04": 4
   },
   "todayProblems": [
     "Find Missing Elements",
     "Sum of Unique Elements",
-    "100 - AB"
+    "100 - AB",
+    "123 - The sum"
   ]
 }
