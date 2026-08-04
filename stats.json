@@ -1,11 +1,11 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 18,
+    "easy": 19,
     "medium": 9,
     "hard": 0,
     "basic": 20
@@ -57,13 +57,14 @@
     "Codeforces_112_-_ab_-_ba": true,
     "LeetCode_Calculate_Money_in_Leetcode_Bank": true,
     "GeeksForGeeks_Array_Traversal": true,
-    "GeeksForGeeks_Array_Search": true
+    "GeeksForGeeks_Array_Search": true,
+    "GeeksForGeeks_Bubble_Sort": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
     "2026-08-03": 12,
-    "2026-08-04": 8
+    "2026-08-04": 9
   },
   "todayProblems": [
     "Find Missing Elements",
@@ -73,6 +74,7 @@
     "112 - ab - ba",
     "Calculate Money in Leetcode Bank",
     "Array Traversal",
-    "Array Search"
+    "Array Search",
+    "Bubble Sort"
   ]
 }
