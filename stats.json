@@ -1,11 +1,11 @@
 {
-  "totalSolved": 39,
-  "currentStreak": 1,
+  "totalSolved": 40,
+  "currentStreak": 2,
   "maxStreak": 2,
-  "lastSyncDate": "2026-08-03",
-  "todayCount": 12,
+  "lastSyncDate": "2026-08-04",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 9,
     "hard": 0,
     "basic": 15
@@ -49,25 +49,16 @@
     "GeeksForGeeks_Solid_Rectangle": true,
     "GeeksForGeeks_Print_Hollow_Rectangle": true,
     "GeeksForGeeks_1_to_n_Without_Loops": true,
-    "GeeksForGeeks_Factorial": true
+    "GeeksForGeeks_Factorial": true,
+    "LeetCode_Find_Missing_Elements": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
-    "2026-08-03": 12
+    "2026-08-03": 12,
+    "2026-08-04": 1
   },
   "todayProblems": [
-    "Stone Game",
-    "Pascal's Triangle II",
-    "While Loop",
-    "Prime Number",
-    "The Else if Statement",
-    "Sum of Natural Numbers",
-    "Odd or Even",
-    "Floyd's triangle",
-    "Solid Rectangle",
-    "Print Hollow Rectangle",
-    "1 to n Without Loops",
-    "Factorial"
+    "Find Missing Elements"
   ]
 }
