@@ -1,11 +1,11 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 9,
     "hard": 0,
     "basic": 18
@@ -54,19 +54,21 @@
     "LeetCode_Sum_of_Unique_Elements": true,
     "Codeforces_100_-_AB": true,
     "Codeforces_123_-_The_sum": true,
-    "Codeforces_112_-_ab_-_ba": true
+    "Codeforces_112_-_ab_-_ba": true,
+    "LeetCode_Calculate_Money_in_Leetcode_Bank": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
     "2026-08-03": 12,
-    "2026-08-04": 5
+    "2026-08-04": 6
   },
   "todayProblems": [
     "Find Missing Elements",
     "Sum of Unique Elements",
     "100 - AB",
     "123 - The sum",
-    "112 - ab - ba"
+    "112 - ab - ba",
+    "Calculate Money in Leetcode Bank"
   ]
 }

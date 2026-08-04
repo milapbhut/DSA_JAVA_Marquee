@@ -44,3 +44,4 @@
 | 42 | [100 - AB](./Codeforces/basic/100%20-%20AB) | [Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/100) | basic | 04 Aug 2026 | 10:21 am |
 | 43 | [123 - The sum](./Codeforces/basic/123%20-%20The%20sum) | [Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/123) | basic | 04 Aug 2026 | 10:50 am |
 | 44 | [112 - ab - ba](./Codeforces/basic/112%20-%20ab%20-%20ba) | [Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/112) | basic | 04 Aug 2026 | 11:14 am |
+| 45 | [Calculate Money in Leetcode Bank](./LeetCode/Easy/Calculate%20Money%20in%20Leetcode%20Bank) | [LeetCode](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | 04 Aug 2026 | 12:43 pm |
