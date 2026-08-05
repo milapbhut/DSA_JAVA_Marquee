@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 20
   },
@@ -60,16 +60,18 @@
     "GeeksForGeeks_Array_Search": true,
     "GeeksForGeeks_Bubble_Sort": true,
     "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
-    "GeeksForGeeks_Selection_Sort": true
+    "GeeksForGeeks_Selection_Sort": true,
+    "LeetCode_Subarray_Sum_Equals_K": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
     "2026-08-03": 12,
     "2026-08-04": 10,
-    "2026-08-05": 1
+    "2026-08-05": 2
   },
   "todayProblems": [
-    "Selection Sort"
+    "Selection Sort",
+    "Subarray Sum Equals K"
   ]
 }

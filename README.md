@@ -50,3 +50,4 @@
 | 48 | [Bubble Sort](./GeeksForGeeks/Easy/Bubble%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1) | Easy | 04 Aug 2026 | 10:50 pm |
 | 49 | [Pairs with Less Than K Diff](./GeeksForGeeks/Easy/Pairs%20with%20Less%20Than%20K%20Diff) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pairs-with-difference-less-than-k1348/1) | Easy | 04 Aug 2026 | 10:52 pm |
 | 50 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 05 Aug 2026 | 08:24 am |
+| 51 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 05 Aug 2026 | 09:23 am |
