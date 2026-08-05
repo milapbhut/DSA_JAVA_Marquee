@@ -1,11 +1,11 @@
 {
-  "totalSolved": 49,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-08-04",
-  "todayCount": 10,
+  "totalSolved": 50,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-08-05",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 9,
     "hard": 0,
     "basic": 20
@@ -59,24 +59,17 @@
     "GeeksForGeeks_Array_Traversal": true,
     "GeeksForGeeks_Array_Search": true,
     "GeeksForGeeks_Bubble_Sort": true,
-    "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true
+    "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
+    "GeeksForGeeks_Selection_Sort": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
     "2026-08-03": 12,
-    "2026-08-04": 10
+    "2026-08-04": 10,
+    "2026-08-05": 1
   },
   "todayProblems": [
-    "Find Missing Elements",
-    "Sum of Unique Elements",
-    "100 - AB",
-    "123 - The sum",
-    "112 - ab - ba",
-    "Calculate Money in Leetcode Bank",
-    "Array Traversal",
-    "Array Search",
-    "Bubble Sort",
-    "Pairs with Less Than K Diff"
+    "Selection Sort"
   ]
 }
