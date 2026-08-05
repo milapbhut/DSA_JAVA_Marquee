@@ -54,3 +54,4 @@
 | 52 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 05 Aug 2026 | 09:27 am |
 | 53 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 05 Aug 2026 | 12:47 pm |
 | 54 | [Island Perimeter](./LeetCode/Easy/Island%20Perimeter) | [LeetCode](https://leetcode.com/problems/island-perimeter/) | Easy | 05 Aug 2026 | 03:09 pm |
+| 55 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 05 Aug 2026 | 03:18 pm |

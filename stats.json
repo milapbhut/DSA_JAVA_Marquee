@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
+  "totalSolved": 55,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 10,
+    "medium": 11,
     "hard": 1,
     "basic": 20
   },
@@ -64,20 +64,22 @@
     "LeetCode_Subarray_Sum_Equals_K": true,
     "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
     "LeetCode_Palindrome_Number": true,
-    "LeetCode_Island_Perimeter": true
+    "LeetCode_Island_Perimeter": true,
+    "LeetCode_Rotate_Image": true
   },
   "activityHistory": {
     "2026-07-30": 25,
     "2026-07-31": 2,
     "2026-08-03": 12,
     "2026-08-04": 10,
-    "2026-08-05": 5
+    "2026-08-05": 6
   },
   "todayProblems": [
     "Selection Sort",
     "Subarray Sum Equals K",
     "Subarrays with Sum in Range",
     "Palindrome Number",
-    "Island Perimeter"
+    "Island Perimeter",
+    "Rotate Image"
   ]
 }
