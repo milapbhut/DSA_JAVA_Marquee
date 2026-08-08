@@ -58,3 +58,4 @@
 | 56 | [Kids With the Greatest Number of Candies](./LeetCode/Easy/Kids%20With%20the%20Greatest%20Number%20of%20Candies) | [LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 08 Aug 2026 | 08:20 am |
 | 57 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 08 Aug 2026 | 08:32 am |
 | 58 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 08 Aug 2026 | 08:48 am |
+| 59 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 08 Aug 2026 | 09:33 am |
