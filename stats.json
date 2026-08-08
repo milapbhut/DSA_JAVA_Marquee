@@ -1,12 +1,12 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 20
   },
@@ -70,7 +70,8 @@
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Reverse_Integer": true,
-    "LeetCode_Pow(x,_n)": true
+    "LeetCode_Pow(x,_n)": true,
+    "LeetCode_3Sum": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -78,13 +79,14 @@
     "2026-08-03": 12,
     "2026-08-04": 10,
     "2026-08-05": 6,
-    "2026-08-08": 5
+    "2026-08-08": 6
   },
   "todayProblems": [
     "Kids With the Greatest Number of Candies",
     "Remove Duplicates from Sorted Array",
     "Merge Sorted Array",
     "Reverse Integer",
-    "Pow(x, n)"
+    "Pow(x, n)",
+    "3Sum"
   ]
 }
