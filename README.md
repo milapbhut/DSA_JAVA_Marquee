@@ -55,3 +55,4 @@
 | 53 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 05 Aug 2026 | 12:47 pm |
 | 54 | [Island Perimeter](./LeetCode/Easy/Island%20Perimeter) | [LeetCode](https://leetcode.com/problems/island-perimeter/) | Easy | 05 Aug 2026 | 03:09 pm |
 | 55 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 05 Aug 2026 | 03:18 pm |
+| 56 | [Kids With the Greatest Number of Candies](./LeetCode/Easy/Kids%20With%20the%20Greatest%20Number%20of%20Candies) | [LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | 08 Aug 2026 | 08:20 am |
