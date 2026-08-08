@@ -1,11 +1,11 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 25,
+    "easy": 26,
     "medium": 11,
     "hard": 1,
     "basic": 20
@@ -67,7 +67,8 @@
     "LeetCode_Island_Perimeter": true,
     "LeetCode_Rotate_Image": true,
     "LeetCode_Kids_With_the_Greatest_Number_of_Candies": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
+    "LeetCode_Merge_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -75,10 +76,11 @@
     "2026-08-03": 12,
     "2026-08-04": 10,
     "2026-08-05": 6,
-    "2026-08-08": 2
+    "2026-08-08": 3
   },
   "todayProblems": [
     "Kids With the Greatest Number of Candies",
-    "Remove Duplicates from Sorted Array"
+    "Remove Duplicates from Sorted Array",
+    "Merge Sorted Array"
   ]
 }
