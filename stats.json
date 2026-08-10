@@ -1,11 +1,11 @@
 {
-  "totalSolved": 62,
+  "totalSolved": 63,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 27,
+    "easy": 28,
     "medium": 14,
     "hard": 1,
     "basic": 20
@@ -72,7 +72,8 @@
     "LeetCode_Reverse_Integer": true,
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_3Sum": true,
-    "LeetCode_Running_Sum_of_1d_Array": true
+    "LeetCode_Running_Sum_of_1d_Array": true,
+    "GeeksForGeeks_Most_Frequent_in_an_Array": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -81,9 +82,10 @@
     "2026-08-04": 10,
     "2026-08-05": 6,
     "2026-08-08": 6,
-    "2026-08-10": 1
+    "2026-08-10": 2
   },
   "todayProblems": [
-    "Running Sum of 1d Array"
+    "Running Sum of 1d Array",
+    "Most Frequent in an Array"
   ]
 }

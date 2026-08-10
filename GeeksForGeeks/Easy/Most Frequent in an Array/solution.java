@@ -1,0 +1,24 @@
+class Solution {
+    public int mostFreqEle(int[] arr) {
+        // code here
+        Arrays.sort(arr);
+
+        int maxCnt = 1, res = arr[0], currCnt = 1;
+        for (int i = 1; i < arr.length; i++) {
+            
+            // previous element if equal to current element 
+            if (arr[i] == arr[i - 1])
+                currCnt++;
+            else
+                currCnt = 1;
+            
+            // Update if curr count is higher or same but value is larger
+            if (currCnt > maxCnt || (currCnt == maxCnt && arr[i] > res)) {
+                maxCnt = currCnt;
+                res = arr[i];
+            }
+        }
+
+        return res;
+    }
+}
