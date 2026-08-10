@@ -63,3 +63,4 @@
 | 61 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 08 Aug 2026 | 10:01 am |
 | 62 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 10 Aug 2026 | 08:27 am |
 | 63 | [Most Frequent in an Array](./GeeksForGeeks/Easy/Most%20Frequent%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | Easy | 10 Aug 2026 | 08:33 am |
+| 64 | [Determine Whether Matrix Can Be Obtained By Rotation](./LeetCode/Easy/Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation) | [LeetCode](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | 10 Aug 2026 | 09:36 am |

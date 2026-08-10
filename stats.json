@@ -1,11 +1,11 @@
 {
-  "totalSolved": 63,
+  "totalSolved": 64,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 28,
+    "easy": 29,
     "medium": 14,
     "hard": 1,
     "basic": 20
@@ -73,7 +73,8 @@
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_3Sum": true,
     "LeetCode_Running_Sum_of_1d_Array": true,
-    "GeeksForGeeks_Most_Frequent_in_an_Array": true
+    "GeeksForGeeks_Most_Frequent_in_an_Array": true,
+    "LeetCode_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -82,10 +83,11 @@
     "2026-08-04": 10,
     "2026-08-05": 6,
     "2026-08-08": 6,
-    "2026-08-10": 2
+    "2026-08-10": 3
   },
   "todayProblems": [
     "Running Sum of 1d Array",
-    "Most Frequent in an Array"
+    "Most Frequent in an Array",
+    "Determine Whether Matrix Can Be Obtained By Rotation"
   ]
 }
