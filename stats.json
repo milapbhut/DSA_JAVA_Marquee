@@ -1,12 +1,12 @@
 {
-  "totalSolved": 68,
+  "totalSolved": 69,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 32,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 20
   },
@@ -78,7 +78,8 @@
     "LeetCode_Convert_1D_Array_Into_2D_Array": true,
     "LeetCode_Sort_Colors": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
-    "LeetCode_Duplicate_Zeros": true
+    "LeetCode_Duplicate_Zeros": true,
+    "LeetCode_Count_Primes": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -88,9 +89,10 @@
     "2026-08-05": 6,
     "2026-08-08": 6,
     "2026-08-10": 6,
-    "2026-08-11": 1
+    "2026-08-11": 2
   },
   "todayProblems": [
-    "Duplicate Zeros"
+    "Duplicate Zeros",
+    "Count Primes"
   ]
 }
