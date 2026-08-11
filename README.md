@@ -67,3 +67,4 @@
 | 65 | [Convert 1D Array Into 2D Array](./LeetCode/Easy/Convert%201D%20Array%20Into%202D%20Array) | [LeetCode](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Easy | 10 Aug 2026 | 10:21 am |
 | 66 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 10 Aug 2026 | 10:26 am |
 | 67 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 10 Aug 2026 | 10:29 am |
+| 68 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 11 Aug 2026 | 09:08 am |
