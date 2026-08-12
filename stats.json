@@ -1,11 +1,11 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 33,
+    "easy": 34,
     "medium": 17,
     "hard": 1,
     "basic": 21
@@ -82,7 +82,8 @@
     "LeetCode_Count_Primes": true,
     "GeeksForGeeks_Toggle_Case": true,
     "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true,
-    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true
+    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
+    "GeeksForGeeks_Count_Words_in_a_String": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -93,11 +94,12 @@
     "2026-08-08": 6,
     "2026-08-10": 6,
     "2026-08-11": 2,
-    "2026-08-12": 3
+    "2026-08-12": 4
   },
   "todayProblems": [
     "Toggle Case",
     "Closest to n and Divisible by m",
-    "Length of Longest Subarray With at Most K Frequency"
+    "Length of Longest Subarray With at Most K Frequency",
+    "Count Words in a String"
   ]
 }

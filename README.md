@@ -72,3 +72,4 @@
 | 70 | [Toggle Case](./GeeksForGeeks/Easy/Toggle%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-case/1) | Easy | 12 Aug 2026 | 08:22 am |
 | 71 | [Closest to n and Divisible by m](./GeeksForGeeks/Basic/Closest%20to%20n%20and%20Divisible%20by%20m) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-number5728/1?page=1) | Basic | 12 Aug 2026 | 08:32 am |
 | 72 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 12 Aug 2026 | 09:14 am |
+| 73 | [Count Words in a String](./GeeksForGeeks/Easy/Count%20Words%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Easy | 12 Aug 2026 | 09:47 am |
