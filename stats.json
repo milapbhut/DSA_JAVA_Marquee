@@ -1,14 +1,14 @@
 {
-  "totalSolved": 70,
+  "totalSolved": 71,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 33,
     "medium": 16,
     "hard": 1,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -80,7 +80,8 @@
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
     "LeetCode_Duplicate_Zeros": true,
     "LeetCode_Count_Primes": true,
-    "GeeksForGeeks_Toggle_Case": true
+    "GeeksForGeeks_Toggle_Case": true,
+    "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -91,9 +92,10 @@
     "2026-08-08": 6,
     "2026-08-10": 6,
     "2026-08-11": 2,
-    "2026-08-12": 1
+    "2026-08-12": 2
   },
   "todayProblems": [
-    "Toggle Case"
+    "Toggle Case",
+    "Closest to n and Divisible by m"
   ]
 }
