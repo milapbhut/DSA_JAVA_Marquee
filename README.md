@@ -75,3 +75,4 @@
 | 73 | [Count Words in a String](./GeeksForGeeks/Easy/Count%20Words%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Easy | 12 Aug 2026 | 09:47 am |
 | 74 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 12 Aug 2026 | 10:25 am |
 | 75 | [Search a Character in a String](./GeeksForGeeks/Easy/Search%20a%20Character%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-a-character-in-a-string/1) | Easy | 13 Aug 2026 | 08:12 am |
+| 76 | [Convert Sentence to Camel Case](./GeeksForGeeks/Medium/Convert%20Sentence%20to%20Camel%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) | Medium | 13 Aug 2026 | 08:28 am |
