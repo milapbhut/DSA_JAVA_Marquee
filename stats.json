@@ -1,11 +1,11 @@
 {
-  "totalSolved": 79,
+  "totalSolved": 80,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 38,
+    "easy": 39,
     "medium": 19,
     "hard": 1,
     "basic": 21
@@ -89,7 +89,8 @@
     "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
     "LeetCode_Move_Zeroes": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "LeetCode_Minimum_Size_Subarray_Sum": true
+    "LeetCode_Minimum_Size_Subarray_Sum": true,
+    "LeetCode_Capitalize_the_Title": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -101,13 +102,14 @@
     "2026-08-10": 6,
     "2026-08-11": 2,
     "2026-08-12": 5,
-    "2026-08-13": 5
+    "2026-08-13": 6
   },
   "todayProblems": [
     "Search a Character in a String",
     "Convert Sentence to Camel Case",
     "Move Zeroes",
     "Move All Zeroes to End",
-    "Minimum Size Subarray Sum"
+    "Minimum Size Subarray Sum",
+    "Capitalize the Title"
   ]
 }
