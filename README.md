@@ -81,3 +81,4 @@
 | 79 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 13 Aug 2026 | 10:19 am |
 | 80 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 13 Aug 2026 | 11:03 am |
 | 81 | [Start Coding](./GeeksForGeeks/Basic/Start%20Coding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/start-coding-1/1) | Basic | 14 Aug 2026 | 10:08 am |
+| 82 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 14 Aug 2026 | 08:37 pm |
