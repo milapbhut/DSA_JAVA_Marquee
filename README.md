@@ -80,3 +80,4 @@
 | 78 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 13 Aug 2026 | 09:00 am |
 | 79 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 13 Aug 2026 | 10:19 am |
 | 80 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 13 Aug 2026 | 11:03 am |
+| 81 | [Start Coding](./GeeksForGeeks/Basic/Start%20Coding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/start-coding-1/1) | Basic | 14 Aug 2026 | 10:08 am |
