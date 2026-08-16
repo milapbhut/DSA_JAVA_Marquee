@@ -82,3 +82,4 @@
 | 80 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 13 Aug 2026 | 11:03 am |
 | 81 | [Start Coding](./GeeksForGeeks/Basic/Start%20Coding) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/start-coding-1/1) | Basic | 14 Aug 2026 | 10:08 am |
 | 82 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 14 Aug 2026 | 08:37 pm |
+| 83 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 16 Aug 2026 | 10:43 pm |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 82,
-  "currentStreak": 5,
+  "totalSolved": 83,
+  "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-08-14",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-16",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 40,
+    "easy": 41,
     "medium": 19,
     "hard": 1,
     "basic": 22
@@ -92,7 +92,8 @@
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Capitalize_the_Title": true,
     "GeeksForGeeks_Start_Coding": true,
-    "LeetCode_Length_of_Last_Word": true
+    "LeetCode_Length_of_Last_Word": true,
+    "LeetCode_Roman_to_Integer": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -105,10 +106,10 @@
     "2026-08-11": 2,
     "2026-08-12": 5,
     "2026-08-13": 6,
-    "2026-08-14": 2
+    "2026-08-14": 2,
+    "2026-08-16": 1
   },
   "todayProblems": [
-    "Start Coding",
-    "Length of Last Word"
+    "Roman to Integer"
   ]
 }
