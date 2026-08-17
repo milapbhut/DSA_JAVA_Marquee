@@ -1,12 +1,12 @@
 {
-  "totalSolved": 90,
+  "totalSolved": 91,
   "currentStreak": 2,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 48,
-    "medium": 19,
+    "medium": 20,
     "hard": 1,
     "basic": 22
   },
@@ -100,7 +100,8 @@
     "LeetCode_Check_If_Two_String_Arrays_are_Equivalent": true,
     "LeetCode_Reverse_String": true,
     "GeeksForGeeks_Print_n_to_1_without_loop": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "GeeksForGeeks_Implement_Pow": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -115,7 +116,7 @@
     "2026-08-13": 6,
     "2026-08-14": 2,
     "2026-08-16": 1,
-    "2026-08-17": 7
+    "2026-08-17": 8
   },
   "todayProblems": [
     "Defanging an IP Address",
@@ -124,6 +125,7 @@
     "Check If Two String Arrays are Equivalent",
     "Reverse String",
     "Print n to 1 without loop",
-    "Valid Anagram"
+    "Valid Anagram",
+    "Implement Pow"
   ]
 }
