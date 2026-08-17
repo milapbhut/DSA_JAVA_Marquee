@@ -1,11 +1,11 @@
 {
-  "totalSolved": 85,
+  "totalSolved": 86,
   "currentStreak": 2,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 43,
+    "easy": 44,
     "medium": 19,
     "hard": 1,
     "basic": 22
@@ -95,7 +95,8 @@
     "LeetCode_Length_of_Last_Word": true,
     "LeetCode_Roman_to_Integer": true,
     "LeetCode_Defanging_an_IP_Address": true,
-    "LeetCode_Goal_Parser_Interpretation": true
+    "LeetCode_Goal_Parser_Interpretation": true,
+    "GeeksForGeeks_Multiplication_Table": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -110,10 +111,11 @@
     "2026-08-13": 6,
     "2026-08-14": 2,
     "2026-08-16": 1,
-    "2026-08-17": 2
+    "2026-08-17": 3
   },
   "todayProblems": [
     "Defanging an IP Address",
-    "Goal Parser Interpretation"
+    "Goal Parser Interpretation",
+    "Multiplication Table"
   ]
 }

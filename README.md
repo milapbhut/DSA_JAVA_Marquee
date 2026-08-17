@@ -85,3 +85,4 @@
 | 83 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 16 Aug 2026 | 10:43 pm |
 | 84 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 17 Aug 2026 | 08:11 am |
 | 85 | [Goal Parser Interpretation](./LeetCode/Easy/Goal%20Parser%20Interpretation) | [LeetCode](https://leetcode.com/problems/goal-parser-interpretation/) | Easy | 17 Aug 2026 | 09:02 am |
+| 86 | [Multiplication Table](./GeeksForGeeks/Easy/Multiplication%20Table) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiplication-table/1?) | Easy | 17 Aug 2026 | 09:19 am |
