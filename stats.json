@@ -1,11 +1,11 @@
 {
-  "totalSolved": 83,
-  "currentStreak": 1,
+  "totalSolved": 84,
+  "currentStreak": 2,
   "maxStreak": 5,
-  "lastSyncDate": "2026-08-16",
+  "lastSyncDate": "2026-08-17",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 41,
+    "easy": 42,
     "medium": 19,
     "hard": 1,
     "basic": 22
@@ -93,7 +93,8 @@
     "LeetCode_Capitalize_the_Title": true,
     "GeeksForGeeks_Start_Coding": true,
     "LeetCode_Length_of_Last_Word": true,
-    "LeetCode_Roman_to_Integer": true
+    "LeetCode_Roman_to_Integer": true,
+    "LeetCode_Defanging_an_IP_Address": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -107,9 +108,10 @@
     "2026-08-12": 5,
     "2026-08-13": 6,
     "2026-08-14": 2,
-    "2026-08-16": 1
+    "2026-08-16": 1,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Roman to Integer"
+    "Defanging an IP Address"
   ]
 }
