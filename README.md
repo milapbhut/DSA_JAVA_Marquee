@@ -86,3 +86,4 @@
 | 84 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 17 Aug 2026 | 08:11 am |
 | 85 | [Goal Parser Interpretation](./LeetCode/Easy/Goal%20Parser%20Interpretation) | [LeetCode](https://leetcode.com/problems/goal-parser-interpretation/) | Easy | 17 Aug 2026 | 09:02 am |
 | 86 | [Multiplication Table](./GeeksForGeeks/Easy/Multiplication%20Table) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiplication-table/1?) | Easy | 17 Aug 2026 | 09:19 am |
+| 87 | [Check If Two String Arrays are Equivalent](./LeetCode/Easy/Check%20If%20Two%20String%20Arrays%20are%20Equivalent) | [LeetCode](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | 17 Aug 2026 | 09:33 am |
