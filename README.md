@@ -92,3 +92,4 @@
 | 90 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 17 Aug 2026 | 09:58 am |
 | 91 | [Implement Pow](./GeeksForGeeks/Medium/Implement%20Pow) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/powx-n/1?) | Medium | 17 Aug 2026 | 10:03 am |
 | 92 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1?) | Easy | 17 Aug 2026 | 10:11 am |
+| 93 | [All Divisors of a Number](./GeeksForGeeks/Easy/All%20Divisors%20of%20a%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1?) | Easy | 17 Aug 2026 | 10:38 am |
