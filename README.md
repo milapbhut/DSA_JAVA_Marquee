@@ -89,3 +89,4 @@
 | 87 | [Check If Two String Arrays are Equivalent](./LeetCode/Easy/Check%20If%20Two%20String%20Arrays%20are%20Equivalent) | [LeetCode](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | 17 Aug 2026 | 09:33 am |
 | 88 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 17 Aug 2026 | 09:40 am |
 | 89 | [Print n to 1 without loop](./GeeksForGeeks/Easy/Print%20n%20to%201%20without%20loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?) | Easy | 17 Aug 2026 | 09:45 am |
+| 90 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 17 Aug 2026 | 09:58 am |
