@@ -1,11 +1,11 @@
 {
-  "totalSolved": 97,
+  "totalSolved": 98,
   "currentStreak": 3,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 53,
+    "easy": 54,
     "medium": 21,
     "hard": 1,
     "basic": 22
@@ -107,7 +107,8 @@
     "LeetCode_Largest_Odd_Number_in_String": true,
     "LeetCode_To_Lower_Case": true,
     "LeetCode_Reverse_Words_in_a_String": true,
-    "LeetCode_Rotate_String": true
+    "LeetCode_Rotate_String": true,
+    "LeetCode_Shuffle_String": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -123,12 +124,13 @@
     "2026-08-14": 2,
     "2026-08-16": 1,
     "2026-08-17": 10,
-    "2026-08-18": 4
+    "2026-08-18": 5
   },
   "todayProblems": [
     "Largest Odd Number in String",
     "To Lower Case",
     "Reverse Words in a String",
-    "Rotate String"
+    "Rotate String",
+    "Shuffle String"
   ]
 }
