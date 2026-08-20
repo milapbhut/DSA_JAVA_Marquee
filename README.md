@@ -101,3 +101,4 @@
 | 99 | [Detect Capital](./LeetCode/Easy/Detect%20Capital) | [LeetCode](https://leetcode.com/problems/detect-capital/) | Easy | 19 Aug 2026 | 08:17 am |
 | 100 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 19 Aug 2026 | 08:48 am |
 | 101 | [1454B - Unique Bid Auction](./Codeforces/basic/1454B%20-%20Unique%20Bid%20Auction) | [Codeforces](https://codeforces.com/problemset/problem/1454/B) | basic | 20 Aug 2026 | 07:55 am |
+| 102 | [2253B - Hypercarp and the Control Panel](./Codeforces/basic/2253B%20-%20Hypercarp%20and%20the%20Control%20Panel) | [Codeforces](https://codeforces.com/problemset/problem/2253/B) | basic | 20 Aug 2026 | 07:55 am |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 101,
+  "totalSolved": 102,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 56,
     "medium": 21,
     "hard": 1,
-    "basic": 23
+    "basic": 24
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -111,7 +111,8 @@
     "LeetCode_Shuffle_String": true,
     "LeetCode_Detect_Capital": true,
     "LeetCode_Search_Insert_Position": true,
-    "Codeforces_1454B_-_Unique_Bid_Auction": true
+    "Codeforces_1454B_-_Unique_Bid_Auction": true,
+    "Codeforces_2253B_-_Hypercarp_and_the_Control_Panel": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -129,9 +130,10 @@
     "2026-08-17": 10,
     "2026-08-18": 5,
     "2026-08-19": 2,
-    "2026-08-20": 1
+    "2026-08-20": 2
   },
   "todayProblems": [
-    "1454B - Unique Bid Auction"
+    "1454B - Unique Bid Auction",
+    "2253B - Hypercarp and the Control Panel"
   ]
 }
