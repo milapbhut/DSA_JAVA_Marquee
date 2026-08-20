@@ -1,11 +1,11 @@
 {
-  "totalSolved": 108,
+  "totalSolved": 109,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 56,
+    "easy": 57,
     "medium": 21,
     "hard": 1,
     "basic": 30
@@ -118,7 +118,8 @@
     "Codeforces_1989D_-_Smithing_Skill": true,
     "Codeforces_2253D_-_Hypercarp_and_Interdimensional_Jumps": true,
     "Codeforces_628D_-_Magic_Numbers": true,
-    "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true
+    "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true,
+    "LeetCode_Maximum_Odd_Binary_Number": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -136,7 +137,7 @@
     "2026-08-17": 10,
     "2026-08-18": 5,
     "2026-08-19": 2,
-    "2026-08-20": 8
+    "2026-08-20": 9
   },
   "todayProblems": [
     "1454B - Unique Bid Auction",
@@ -146,6 +147,7 @@
     "1989D - Smithing Skill",
     "2253D - Hypercarp and Interdimensional Jumps",
     "628D - Magic Numbers",
-    "1362C - Johnny and Another Rating Drop"
+    "1362C - Johnny and Another Rating Drop",
+    "Maximum Odd Binary Number"
   ]
 }

@@ -108,3 +108,4 @@
 | 106 | [2253D - Hypercarp and Interdimensional Jumps](./Codeforces/basic/2253D%20-%20Hypercarp%20and%20Interdimensional%20Jumps) | [Codeforces](https://codeforces.com/problemset/problem/2253/D) | basic | 20 Aug 2026 | 07:55 am |
 | 107 | [628D - Magic Numbers](./Codeforces/basic/628D%20-%20Magic%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/628/D) | basic | 20 Aug 2026 | 07:55 am |
 | 108 | [1362C - Johnny and Another Rating Drop](./Codeforces/basic/1362C%20-%20Johnny%20and%20Another%20Rating%20Drop) | [Codeforces](https://codeforces.com/problemset/problem/1362/C) | basic | 20 Aug 2026 | 07:55 am |
+| 109 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 20 Aug 2026 | 08:19 am |
