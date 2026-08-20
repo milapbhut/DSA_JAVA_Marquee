@@ -103,3 +103,4 @@
 | 101 | [1454B - Unique Bid Auction](./Codeforces/basic/1454B%20-%20Unique%20Bid%20Auction) | [Codeforces](https://codeforces.com/problemset/problem/1454/B) | basic | 20 Aug 2026 | 07:55 am |
 | 102 | [2253B - Hypercarp and the Control Panel](./Codeforces/basic/2253B%20-%20Hypercarp%20and%20the%20Control%20Panel) | [Codeforces](https://codeforces.com/problemset/problem/2253/B) | basic | 20 Aug 2026 | 07:55 am |
 | 103 | [1560A - Dislike of Threes](./Codeforces/basic/1560A%20-%20Dislike%20of%20Threes) | [Codeforces](https://codeforces.com/problemset/problem/1560/A) | basic | 20 Aug 2026 | 07:55 am |
+| 104 | [1187E - Tree Painting](./Codeforces/basic/1187E%20-%20Tree%20Painting) | [Codeforces](https://codeforces.com/problemset/problem/1187/E) | basic | 20 Aug 2026 | 07:55 am |
