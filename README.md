@@ -100,3 +100,4 @@
 | 98 | [Shuffle String](./LeetCode/Easy/Shuffle%20String) | [LeetCode](https://leetcode.com/problems/shuffle-string/) | Easy | 18 Aug 2026 | 10:38 am |
 | 99 | [Detect Capital](./LeetCode/Easy/Detect%20Capital) | [LeetCode](https://leetcode.com/problems/detect-capital/) | Easy | 19 Aug 2026 | 08:17 am |
 | 100 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 19 Aug 2026 | 08:48 am |
+| 101 | [1454B - Unique Bid Auction](./Codeforces/basic/1454B%20-%20Unique%20Bid%20Auction) | [Codeforces](https://codeforces.com/problemset/problem/1454/B) | basic | 20 Aug 2026 | 07:55 am |
