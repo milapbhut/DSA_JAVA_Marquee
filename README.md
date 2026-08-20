@@ -107,3 +107,4 @@
 | 105 | [1989D - Smithing Skill](./Codeforces/basic/1989D%20-%20Smithing%20Skill) | [Codeforces](https://codeforces.com/problemset/problem/1989/D) | basic | 20 Aug 2026 | 07:55 am |
 | 106 | [2253D - Hypercarp and Interdimensional Jumps](./Codeforces/basic/2253D%20-%20Hypercarp%20and%20Interdimensional%20Jumps) | [Codeforces](https://codeforces.com/problemset/problem/2253/D) | basic | 20 Aug 2026 | 07:55 am |
 | 107 | [628D - Magic Numbers](./Codeforces/basic/628D%20-%20Magic%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/628/D) | basic | 20 Aug 2026 | 07:55 am |
+| 108 | [1362C - Johnny and Another Rating Drop](./Codeforces/basic/1362C%20-%20Johnny%20and%20Another%20Rating%20Drop) | [Codeforces](https://codeforces.com/problemset/problem/1362/C) | basic | 20 Aug 2026 | 07:55 am |

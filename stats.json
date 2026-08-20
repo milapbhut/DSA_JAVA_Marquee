@@ -1,14 +1,14 @@
 {
-  "totalSolved": 107,
+  "totalSolved": 108,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 56,
     "medium": 21,
     "hard": 1,
-    "basic": 29
+    "basic": 30
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -117,7 +117,8 @@
     "Codeforces_1187E_-_Tree_Painting": true,
     "Codeforces_1989D_-_Smithing_Skill": true,
     "Codeforces_2253D_-_Hypercarp_and_Interdimensional_Jumps": true,
-    "Codeforces_628D_-_Magic_Numbers": true
+    "Codeforces_628D_-_Magic_Numbers": true,
+    "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -135,7 +136,7 @@
     "2026-08-17": 10,
     "2026-08-18": 5,
     "2026-08-19": 2,
-    "2026-08-20": 7
+    "2026-08-20": 8
   },
   "todayProblems": [
     "1454B - Unique Bid Auction",
@@ -144,6 +145,7 @@
     "1187E - Tree Painting",
     "1989D - Smithing Skill",
     "2253D - Hypercarp and Interdimensional Jumps",
-    "628D - Magic Numbers"
+    "628D - Magic Numbers",
+    "1362C - Johnny and Another Rating Drop"
   ]
 }
