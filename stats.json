@@ -1,14 +1,14 @@
 {
-  "totalSolved": 104,
+  "totalSolved": 105,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 56,
     "medium": 21,
     "hard": 1,
-    "basic": 26
+    "basic": 27
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -114,7 +114,8 @@
     "Codeforces_1454B_-_Unique_Bid_Auction": true,
     "Codeforces_2253B_-_Hypercarp_and_the_Control_Panel": true,
     "Codeforces_1560A_-_Dislike_of_Threes": true,
-    "Codeforces_1187E_-_Tree_Painting": true
+    "Codeforces_1187E_-_Tree_Painting": true,
+    "Codeforces_1989D_-_Smithing_Skill": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -132,12 +133,13 @@
     "2026-08-17": 10,
     "2026-08-18": 5,
     "2026-08-19": 2,
-    "2026-08-20": 4
+    "2026-08-20": 5
   },
   "todayProblems": [
     "1454B - Unique Bid Auction",
     "2253B - Hypercarp and the Control Panel",
     "1560A - Dislike of Threes",
-    "1187E - Tree Painting"
+    "1187E - Tree Painting",
+    "1989D - Smithing Skill"
   ]
 }
