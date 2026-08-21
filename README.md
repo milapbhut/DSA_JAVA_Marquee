@@ -111,3 +111,4 @@
 | 109 | [Maximum Odd Binary Number](./LeetCode/Easy/Maximum%20Odd%20Binary%20Number) | [LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | 20 Aug 2026 | 08:19 am |
 | 110 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 20 Aug 2026 | 09:23 am |
 | 111 | [Minimum Length of String After Deleting Similar Ends](./LeetCode/Medium/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends) | [LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Medium | 21 Aug 2026 | 08:36 am |
+| 112 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 21 Aug 2026 | 09:08 am |

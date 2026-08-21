@@ -1,12 +1,12 @@
 {
-  "totalSolved": 111,
+  "totalSolved": 112,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 58,
-    "medium": 22,
+    "medium": 23,
     "hard": 1,
     "basic": 30
   },
@@ -121,7 +121,8 @@
     "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true,
     "LeetCode_Maximum_Odd_Binary_Number": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
-    "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true
+    "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -140,9 +141,10 @@
     "2026-08-18": 5,
     "2026-08-19": 2,
     "2026-08-20": 10,
-    "2026-08-21": 1
+    "2026-08-21": 2
   },
   "todayProblems": [
-    "Minimum Length of String After Deleting Similar Ends"
+    "Minimum Length of String After Deleting Similar Ends",
+    "Container With Most Water"
   ]
 }
