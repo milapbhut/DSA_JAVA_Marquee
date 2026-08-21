@@ -1,12 +1,12 @@
 {
-  "totalSolved": 110,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-08-20",
-  "todayCount": 10,
+  "totalSolved": 111,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-08-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 58,
-    "medium": 21,
+    "medium": 22,
     "hard": 1,
     "basic": 30
   },
@@ -120,7 +120,8 @@
     "Codeforces_628D_-_Magic_Numbers": true,
     "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true,
     "LeetCode_Maximum_Odd_Binary_Number": true,
-    "LeetCode_First_Unique_Character_in_a_String": true
+    "LeetCode_First_Unique_Character_in_a_String": true,
+    "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -138,18 +139,10 @@
     "2026-08-17": 10,
     "2026-08-18": 5,
     "2026-08-19": 2,
-    "2026-08-20": 10
+    "2026-08-20": 10,
+    "2026-08-21": 1
   },
   "todayProblems": [
-    "1454B - Unique Bid Auction",
-    "2253B - Hypercarp and the Control Panel",
-    "1560A - Dislike of Threes",
-    "1187E - Tree Painting",
-    "1989D - Smithing Skill",
-    "2253D - Hypercarp and Interdimensional Jumps",
-    "628D - Magic Numbers",
-    "1362C - Johnny and Another Rating Drop",
-    "Maximum Odd Binary Number",
-    "First Unique Character in a String"
+    "Minimum Length of String After Deleting Similar Ends"
   ]
 }
