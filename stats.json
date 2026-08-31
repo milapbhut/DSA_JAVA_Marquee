@@ -1,12 +1,12 @@
 {
-  "totalSolved": 114,
+  "totalSolved": 115,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-24",
+  "lastSyncDate": "2026-08-31",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 23,
+    "medium": 24,
     "hard": 1,
     "basic": 30
   },
@@ -124,7 +124,8 @@
     "LeetCode_Minimum_Length_of_String_After_Deleting_Similar_Ends": true,
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
-    "LeetCode_Binary_Search": true
+    "LeetCode_Binary_Search": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -144,9 +145,10 @@
     "2026-08-19": 2,
     "2026-08-20": 10,
     "2026-08-21": 3,
-    "2026-08-24": 1
+    "2026-08-24": 1,
+    "2026-08-31": 1
   },
   "todayProblems": [
-    "Binary Search"
+    "Search in Rotated Sorted Array"
   ]
 }
