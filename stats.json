@@ -1,12 +1,12 @@
 {
-  "totalSolved": 115,
+  "totalSolved": 116,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 24,
+    "medium": 25,
     "hard": 1,
     "basic": 30
   },
@@ -125,7 +125,8 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "LeetCode_Binary_Search": true,
-    "LeetCode_Search_in_Rotated_Sorted_Array": true
+    "LeetCode_Search_in_Rotated_Sorted_Array": true,
+    "LeetCode_Search_a_2D_Matrix": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -146,9 +147,10 @@
     "2026-08-20": 10,
     "2026-08-21": 3,
     "2026-08-24": 1,
-    "2026-08-31": 1
+    "2026-08-31": 2
   },
   "todayProblems": [
-    "Search in Rotated Sorted Array"
+    "Search in Rotated Sorted Array",
+    "Search a 2D Matrix"
   ]
 }
