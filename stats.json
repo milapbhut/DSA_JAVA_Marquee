@@ -1,13 +1,13 @@
 {
-  "totalSolved": 119,
+  "totalSolved": 120,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 60,
     "medium": 28,
-    "hard": 1,
+    "hard": 2,
     "basic": 30
   },
   "syncedProblems": {
@@ -129,7 +129,8 @@
     "LeetCode_Search_a_2D_Matrix": true,
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
     "LeetCode_4Sum": true,
-    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true
   },
   "activityHistory": {
     "2026-07-30": 25,
@@ -152,9 +153,10 @@
     "2026-08-24": 1,
     "2026-08-31": 3,
     "2026-09-01": 1,
-    "2026-09-28": 1
+    "2026-09-28": 2
   },
   "todayProblems": [
-    "Find Minimum in Rotated Sorted Array"
+    "Find Minimum in Rotated Sorted Array",
+    "Find Minimum in Rotated Sorted Array II"
   ]
 }
