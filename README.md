@@ -120,3 +120,4 @@
 | 118 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 01 Sept 2026 | 09:22 am |
 | 119 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 28 Sept 2026 | 11:23 am |
 | 120 | [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 28 Sept 2026 | 11:24 am |
+| 121 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 28 Sept 2026 | 01:32 pm |
